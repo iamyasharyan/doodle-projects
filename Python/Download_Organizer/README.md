@@ -8,9 +8,11 @@
 - Change the DownloadPath to your default download Directory 
 ```shell
   DownloadPath=" Change this "
+ ```
 
 - Create a .bat file and add it to Startup,so that it File_Organizer works on every bootup and organizes folder in the background.
 ```shell
     python " Path to File Organize code " &amp
+```
 
 
